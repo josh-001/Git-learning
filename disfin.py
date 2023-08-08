@@ -1,6 +1,6 @@
 import cv2 as cv 
 import numpy as np
-
+#changng commits
 # Distance constants 
 KNOWN_DISTANCE = 45 #INCHES
 PERSON_WIDTH = 16 #INCHES
